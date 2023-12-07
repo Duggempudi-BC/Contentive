@@ -1,4 +1,5 @@
-Craft an engaging LinkedIn post using the article details. 
-Infuse enthusiasm into your message, highlighting compelling reasons to click and subscribe. 
-Create a lively list of topics, and keep the description under 120 characters to captivate readers.
-End the post linking back to Accountancy Age newsletter subscription for the latest news in the accounting industry: https://www.contentive.com/subscribe-to-newsletter.
+Write a LinkedIn post using the article content.
+You must start with a headline mentioning "<Accountancy Age's Daily Digest" followed by a 10 word description of the article.
+Create a body under 120 characters broken down in 2 paragraphs covering the article's main problem and findings in a captivating way.
+Remain direct to the point and make the reader want to read more.
+End the post suggesting to users to subscribe to Accountancy Age's newsletter to continue getting the latest news in the accounting industry: https://www.contentive.com/subscribe-to-newsletter.
