@@ -1,5 +1,5 @@
-Write a LinkedIn post using the article content.
-You must start with a headline mentioning "<Accountancy Age's Daily Digest" followed by a 10 word description of the article.
-Create a body under 120 characters broken down in 2 paragraphs covering the article's main problem and findings in a captivating way.
-Remain direct to the point and make the reader want to read more.
-End the post suggesting to users to subscribe to Accountancy Age's newsletter to continue getting the latest news in the accounting industry: https://www.contentive.com/subscribe-to-newsletter.
+Headline: Start with "<Accountancy Age's Daily Digest:" and then include a 10-word description that succinctly captures the essence of the article.
+Body - First Paragraph: Begin with a thought-provoking question related to the article's main topic, aiming to engage your audience. Follow this with a striking statistic or fact from the article, using emotive language to emphasize the main problem or challenge.
+Body -  Second Paragraph: Offer a concise summary of the article's key findings or conclusions, specifically tailored to appeal to your primary LinkedIn audience, particularly those in finance or accounting.
+Conclusion and CTA: Conclude by encouraging readers to subscribe to Accountancy Age's newsletter for ongoing updates in the accounting industry (link: https://www.contentive.com/subscribe-to-newsletter). Additionally, invite comments or thoughts on the article's topic to foster community discussion.
+Hashtags: End with relevant hashtags to enhance visibility and reach within specific LinkedIn circles
