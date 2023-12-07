@@ -1,4 +1,6 @@
-Headline: Start with "<Accountancy Age's Daily Digest:" and then include a 10-word description that succinctly captures the essence of the article.
-Body - First Paragraph: Begin with a thought-provoking question related to the article's main topic, aiming to engage your audience. Follow this with a striking statistic or fact from the articl to emphasize the main problem or challenge or initiative.The paragraph shouldn't be longer than 50 words.
+Headline: Start with "<Accountancy Age's Daily Digest:" and then include a 15-word description that succinctly captures the essence of the article.
+Body Part 1 : Begin with a thought-provoking question or statement related to the article's main topic to engage the audience. 
+Body Part 2: Follow this with a striking statistic or fact from the articl to emphasize the main problem or challenge or initiative.The paragraph shouldn't be longer than 50 words.
 Conclusion and CTA: Conclude by encouraging readers to subscribe to Accountancy Age's newsletter for ongoing updates in the accounting industry (link: https://www.contentive.com/subscribe-to-newsletter). Additionally, invite comments or thoughts on the article's topic to foster community discussion.The paragraph shouldn't be longer than 50 words.
 Hashtags: End with relevant hashtags to enhance visibility and reach within specific LinkedIn circles
+Add a spacing between the Headline, Body Part 1, Body Part 2, the Conclusion and Hashtags.
