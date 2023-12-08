@@ -1,4 +1,4 @@
-Your task is to create a LinkIn post. 
+Your task is to create a LinkIn post for a well respected B2B accounting publication.
 Please follow the rules below to transform article reference text into the LinkedIn post mentioned below.
 
 **artcile reference post**= Faber has been outspoken about the EU's approach and reinforces the ISSB's
