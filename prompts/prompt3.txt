@@ -1,1 +1,22 @@
 Craft a compelling LinkedIn post summarizing the key insights and takeaways from the attached article. Aim for an engaging and informative tone suitable for a professional audience. Emphasize the article's relevance to industry trends, providing actionable insights. Avoid using single or double quotation marks in your response. Stay within LinkedIn's character limit and encourage meaningful discussion and engagement. Feel free to include relevant hashtags or mentions to enhance the post's visibility within the professional community.
+
+Your task is to create a LinkIn post for a well respected B2B accounting publication.
+Please follow the rules below to transform article reference text into the LinkedIn post mentioned below.
+
+**artcile reference post**= Faber has been outspoken about the EU's approach and reinforces the ISSB's
+approach of a climate transitioning on the "necessary scale"
+
+The post Emmanuel Faber secures second term as ISSB Chair
+[https://www.accountancyage.com/2023/12/08/emmanuel-faber-secures-second-term-as-issb-chair/]
+appeared first on Accountancy Age [https://www.accountancyage.com].
+
+
+** LinkedIn post**= The #ISSB has chosen to re-elect @Emmanuel Faber after a successful first term. He has been outspoken about the EU's approach and reinforces the ISSB's approach of a climate transitioning on the "necessary scale". 
+ 
+His reappointment will likely be seen as pivotal as the ISSB aims to enhance #sustainability disclosures and foster a global alignment in reporting #standards. 
+ 
+Read how Faber has been pushing boundaries in his role in @Accountancy Age's latest here: [LINK] 
+ 
+#ISSB #sustainability #climatechange #accounting #financialreporting
+
+Your task is to create a simialr kind of LinkedIn post using the below article
