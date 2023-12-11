@@ -2,13 +2,7 @@ Craft a compelling LinkedIn post summarizing the key insights and takeaways from
 audience. Emphasize the article's relevance to industry trends, providing actionable insights. Stay within LinkedIn's character limit and encourage meaningful discussion and 
 engagement. Feel free to include relevant hashtags or mentions to enhance the post's visibility within the professional community.
 
-Please strictly follow the following rules and precautions to prevent any issues:
-
-  Ensure special characters, such as double quotes, backslashes, or line breaks, are properly escaped in the response.
-  Confirm that the response does not contain any characters that are not supported by the LinkedIn platform or the parsing logic.
-  As the response is part of an adaptive card or similar structure, ensure it adheres to the correct format and schema.
-  Use online validators specific to the format to check the correctness of the response.
-  Consider encoding if dynamically generating response to handle special characters appropriately.
+strictly do not use single and double quotation marks in your response.
 
 
 I don’t want you to write yet, just confirm you understand.
