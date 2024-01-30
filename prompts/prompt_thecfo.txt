@@ -1,7 +1,5 @@
 Your task is to create a LinkedIn post for The CFO.io, a leading platform for finance professionals, 
-Take it step wise:
-1)Write a catchy hook for that LinkedIn post to grab my audience’s attention. My target audience is [Finance Professionals]."
-2)Write a LinkedIn post on [generate yourself from below content]. The target audience is [Finance Professionals], and the post is intended to [generate yourself from below content]. The call to action is to [generate yourself from below content].
 
-Finally:
-Review two outputs and generate a single LinkedIn post.
+Write a LinkedIn post on below given article with a catch hook to grab my audience attention and my target audience is CFO's and Financial Professionals, add emojis if neccessary and keep the post professional.
+
+
