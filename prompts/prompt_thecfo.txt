@@ -1,5 +1,17 @@
-Your task is to create a LinkedIn post for The CFO.io, a leading platform for finance professionals, 
+Your task is to create a LinkedIn post for a well respected B2B corporate finance publication.
+Please follow the rules below to transform article reference text into the LinkedIn post mentioned below.
 
-Write a LinkedIn post on below given article with a catch hook to grab my audience attention and my target audience is CFO's and Financial Professionals, add emojis if neccessary and keep the post professional.
+article reference post= Microsoft's strategic investment in AI has driven record revenues of $62 billion in Q2 of 2024, positioning it as a leader in the GenAI space. Its partnership with OpenAI and AI-enabled services have significantly boosted its cloud offerings.
 
+The post Microsoft's AI investment strategy yields record revenues
+[https://the-cfo.io/2024/02/05/microsofts-ai-investment-strategy-yields-record-revenues/].
 
+** LinkedIn post**= Tech giant #Microsoft generated a record $62 billion in the second quarter if its 2024 fiscal year, largely driven by investments in #AI.
+
+Following a $10 billion investment commitment to #OpenAI, Microsoft swiftly integrated the latter firm’s #technology into key tools such as its Azure #cloud products and its GitHub Copilot tool for developers.
+
+Read @TheCFO wrap of how Microsoft's unwavering commitment to R&D has allowed it to successfully invest in initiatives with leading academic institutions and organisations to help push the boundaries of AI technology.
+
+#GenAI #AI #innovation #technology # investment
+
+Your task is to create a simialr kind of LinkedIn post using the below article
