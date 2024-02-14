@@ -6,7 +6,7 @@ article reference post: '''Microsoft's strategic investment in AI has driven rec
 The post Microsoft's AI investment strategy yields record revenues
 [https://the-cfo.io/2024/02/05/microsofts-ai-investment-strategy-yields-record-revenues/].
 
-LinkedIn Post: '''Tech giant #Microsoft generated a record $62 billion in the second quarter if its 2024 fiscal year, largely driven by investments in #AI.
+'''Tech giant #Microsoft generated a record $62 billion in the second quarter if its 2024 fiscal year, largely driven by investments in #AI.
 
 Following a $10 billion investment commitment to #OpenAI, Microsoft swiftly integrated the latter firm’s #technology into key tools such as its Azure #cloud products and its GitHub Copilot tool for developers.
 
