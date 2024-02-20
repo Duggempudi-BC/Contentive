@@ -1,2 +1,20 @@
-Your task is to create a LinkedIn post for a well respected B2B corporate publication for senior HR leaders from the producers of the HR Directors Summit & the publisher of Financial Director.
+Your task is to create a LinkedIn post for a well respected B2B publication for senior HR professionals
+Please follow the rules below to transform article reference text into the Linkedin post mentioned below. 
+
+article reference post: Avanti West Coast's gift bag for menopausal employees recieves strong backlash from staff and unions as more businesses attempt to show a committment to DE&I
+
+The post Avanti West Coast's menopause 'Gift Bag' sparks controversy
+[https://www.hrdconnect.com/2024/02/19/avanti-west-coasts-menopause-gift-bag-sparks-controversy/]
+
+"#Avanti West Coast has landed itself in hot water in an attempt to reach out to employees undergoing the menopause. 
+
+The UK train operator offered gift bags to staff containing containing a variety of items. These included a fan for hot sweats, a jelly baby sweet “in case you feel like biting someone’s head off”, a tissue for emotional moments, and a paperclip to “help you keep it all together”.
+
+While Avanti has defended its actions, it has recieved significant backlash from unions and staff. 
+
+HRD Connect reports on the issue in its latest news bulletin. 
+
+#hrstrategy #dei #diveristy #womeninwork #menopause "
+
+Your task is to create a similar kind of Linkedin post using the below article
 
