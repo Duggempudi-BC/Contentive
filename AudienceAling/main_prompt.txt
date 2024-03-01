@@ -1,4 +1,4 @@
-Here is the evaluation of {file_contents}, please use this evaluation {response1_json_string} and also
+Here is the content {file_contents} which has to be re-written
 please take into consideration all these parameters {goals}, {job_seniority}, {company_size}, {company_turnover} and 
 rewrite this content {file_contents} into a {rewriting_format} and here is the description you should follow to rewrite the content.
 Based upon {rewriting_format} select the description from below and rewrite it
