@@ -12,6 +12,8 @@ Following a $10 billion investment commitment to #OpenAI, Microsoft swiftly inte
 
 Read @TheCFO wrap of how Microsoft's unwavering commitment to R&D has allowed it to successfully invest in initiatives with leading academic institutions and organisations to help push the boundaries of AI technology.
 
+Subscribe to our daily Newsletter here: https://www.contentive.com/subscribe-to-newsletter
+
 #GenAI #AI #innovation #technology # investment'''
 
-Your task is to create a simialr kind of LinkedIn post using the below article
+Your task is to create a simialr kind of LinkedIn post using the below article and also dont forget to add "Subscribe to our daily Newsletter: https://www.contentive.com/subscribe-to-newsletter/"
