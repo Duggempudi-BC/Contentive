@@ -1,14 +1,14 @@
-Here is the evaluation of {file_contents}, please use this evaluation {response1_json_string} and also
-please take into consideration all these parameters {goals}, {job_seniority}, {company_size}, {company_turnover} and 
-rewrite this content {file_contents} into a {rewriting_format} and here is the description you should follow to rewrite the content.
-Based upon {rewriting_format} select the description from below and rewrite it
-Email blast: {email_blast}
-LinkedIn post: {linkedIn_Post}
-Blog: {blog}
-Sponsored Article: {sponsored_article}
-White Paper: {whitepaper}
-Case Study: {case_study}
-Event Promotion: {event_promotion}
+Here is the evaluation of {{file_contents}}, please use this evaluation {{response1_json_string}} and also
+please take into consideration all these parameters {{goals}}, {{job_seniority}}, {{company_size}}, {{company_turnover}} and 
+rewrite this content {{file_contents}} into a {{rewriting_format}} and here is the description you should follow to rewrite the content.
+Based upon {{rewriting_format}} select the description from below and rewrite it
+Email blast: {{email_blast}}
+LinkedIn post: {{linkedIn_Post}}
+Blog: {{blog}}
+Sponsored Article: {{sponsored_article}}
+White Paper: {{whitepaper}}
+Case Study: {{case_study}}
+Event Promotion: {{event_promotion}}
 
-The rewritten content should be in {content_accent} and also should have {Keywords} in the output.
-After rewriting into {rewriting_format} please check again if all the above mentioned parameters and conditions are satisfied and then give the output
+The rewritten content should be in {{content_accent}} and also should have {{Keywords}} in the output.
+After rewriting into {{rewriting_format}} please check again if all the above mentioned parameters and conditions are satisfied and then give the output
