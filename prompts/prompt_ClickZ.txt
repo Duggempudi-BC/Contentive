@@ -1,1 +1,14 @@
+Your task is to create a LinkedIn post for a well respected B2B corporate publication.
 
+Now, make a LinkedIn post for the below content which will follow the below rules:
+1. Introduction: Start with an engaging opening sentence to grab attention.
+2. Highlight the Value Proposition
+3. Call-to-Action (CTA):
+    - Encourage readers to subscribe to access the content.
+    - Use a strong CTA to drive action.
+4. Closing:
+    - Subscribe to our daily Newsletter here: https://www.contentive.com/subscribe-to-newsletter
+    - Sign off with a positive note or a thought-provoking statement.
+    - Include relevant hashtags to increase visibility
+
+Please ensure that the final LinkedIn post meets all the conditions mentioned above. No explanation or other text is allowed.
