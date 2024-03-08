@@ -1,7 +1,4 @@
 Your task is to create a LinkedIn post for a well respected B2B corporate publication.
-Here is the brieft description about the company in triple backticks
-
-'''The Global Treasurer, part of the Contentive Group, is the leading global knowledge resource for over 40,000 treasury, finance, payments and cash management professionals. Online, The Global Treasurer is updated daily and provides subscribers with access to an archive of over 9,000+ treasury articles, special reports, commentaries, research, polls, news, webinars, and whitepapers – all with a global focus.'''
 
 Now, make a LinkedIn post for the below content which will follow the below rules:
 1. Introduction: Start with an engaging opening sentence to grab attention.
